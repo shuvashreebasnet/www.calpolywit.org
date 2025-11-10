@@ -16,6 +16,7 @@ Our goal is to create an **inclusive space** for women in tech to **connect, lea
 - 🏆 **Monika**  
 
 ### 💻 **Developers**  
+- 💻 **Monika**
 - 💻 **Rane Dy**  
 - 💻 **Amal Latif**  
 - 💻 **Ruchitha Gande**  
