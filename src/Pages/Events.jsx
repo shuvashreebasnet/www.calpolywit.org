@@ -1,7 +1,7 @@
 import React from 'react';
-import '../styles/Events.css';
+import '../Styles/Events.css';
 import eventImage from '../assets/WebsitePictures/march.jpg';
-import discordLogo from '../assets/Logo/discordPurple.png'; 
+import discordLogo from '../assets/Logo/discordPurple.png';
 
 const Events = () => {
   return (
@@ -26,10 +26,10 @@ const Events = () => {
               </p>
               <p className="meeting-details">
                 <strong>Zoom link:</strong>{' '}
-                <a 
-                  href="https://cpp.zoom.us/j/87512408287" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
+                <a
+                  href="https://cpp.zoom.us/j/87512408287"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="zoom-link"
                 >
                   Join Here

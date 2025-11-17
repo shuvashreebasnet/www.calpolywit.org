@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import '../styles/Home.css';
+import '../Styles/home.css';
 import logo2 from '../assets/Logo/Women_In_Tech_Logo.png';
 import instagramLogo from '../assets/Logo/instaPurple.png';
 import discordLogo from '../assets/Logo/discordPurple.png';
