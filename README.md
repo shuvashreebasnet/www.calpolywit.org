@@ -25,13 +25,14 @@ Our goal is to create an **inclusive space** for women in tech to **connect, lea
 
 ## 📌 Contributing
 
-We welcome contributions from anyone passionate about supporting women in tech! If you'd like to contribute:
+Thank you for your interest in supporting women in tech! Unfortunately, we are not accepting external contributions at this time.
+
+For internal team members working on this project:
 
 - Fork the repository
 - Create a new branch (feature-name)
 - Make your changes
 - Submit a pull request
-- We appreciate your help! 💜
 
 ---
 
