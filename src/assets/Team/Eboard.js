@@ -36,14 +36,14 @@ export const Eboard = [
       name: "Abigail Jeffie",
       role: ["President"],
       picture: AbigailImage,  
-      linkedin: "https://www.linkedin.com/in/alexa-delucas?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      linkedin: "https://www.linkedin.com/in/abigail-jeffie/",
   },
   {
       id: 3,
       name: "Boi Hoanh Lam",
       role: ["Vice President"],
       picture: HoanhImage,  
-      linkedin: "https://www.linkedin.com/in/victoria-lugo-68bb07304/",
+      linkedin: "https://www.linkedin.com/in/boi-hoanh-lam-/",
   },
   
   {
