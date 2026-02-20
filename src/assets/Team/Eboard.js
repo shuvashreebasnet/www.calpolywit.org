@@ -13,6 +13,12 @@ import RaneImage from './TeamPics/DyRaneHeadshot3.png'
 import AlessandraImage from './TeamPics/Alessandra.png'
 import AleImage from './TeamPics/Ale.png'
 import KrishnaImage from './TeamPics/krishna.png'
+import VictoriaImage from './TeamPics/VictoriaLugo.jpg'
+import ElkeImage from './TeamPics/ElkeZak.jpg'
+import ErynImage from './TeamPics/ErynChen.png'
+import MarissaImage from './TeamPics/MarissaLee.png'
+import MonikaImage from './TeamPics/MonikaCrichton.jpg'
+import NatashaImage from './TeamPics/NatashaBudiman.jpg'
 
 
 export const Eboard = [
@@ -50,7 +56,7 @@ export const Eboard = [
       id: 5,
       name: "Victoria Lugo",
       role: ["Director of Industry Relations"],
-      picture: dummyIcon,  
+      picture: VictoriaImage,  
       linkedin: "https://www.linkedin.com/in/victoria-lugo-68bb07304/",
   },
   {
@@ -65,14 +71,14 @@ export const Eboard = [
       id: 7,
       name: "Eryn Chen",
       role: ["Sponsorship Coordinator"],
-      picture: dummyIcon,  
+      picture: ErynImage,  
       linkedin: "https://www.linkedin.com/in/eryn-chen-871516252/",
   },
   {
       id: 8,
       name: "Natasha Budiman",
       role: ["Scholarship Coordinator"],
-      picture: dummyIcon,  
+      picture: NatashaImage,  
       linkedin: "https://www.linkedin.com/in/callistabudiman/",
   },
   {
@@ -102,20 +108,20 @@ export const Eboard = [
       id: 12,
       name: "Elke Zak",
       role: ["Director of Marketing"],
-      picture: dummyIcon,  
+      picture: ElkeImage,  
       linkedin: "https://www.linkedin.com/in/elke-zak/",
   },
   {
       id: 13,
       name: "Marissa Lee",
-      role: ["Co-Chief of Media Production"],
-      picture: dummyIcon,  
+      role: ["Co-Director of Media Production: Graphic Design"],
+      picture: MarissaImage,  
       linkedin: "https://www.linkedin.com/in/marissalee22/",
   },
   {
       id: 14,
       name: "Shuvashree Basnet",
-      role: ["Co-Chief of Media Production"],
+      role: ["Co-Director of Media Production: Photography & Videography"],
       picture: dummyIcon,  
       linkedin: "https://www.linkedin.com/in/marissalee22/",
   },
@@ -123,7 +129,7 @@ export const Eboard = [
       id: 15,
       name: "Monika Crichton",
       role: ["CS Consultant & Council Liaison,", "Web Dev Lead"],
-      picture: dummyIcon,  
+      picture: MonikaImage,  
       linkedin: "",
   },
   {
