@@ -19,6 +19,7 @@ import ErynImage from './TeamPics/ErynChen.png'
 import MarissaImage from './TeamPics/MarissaLee.png'
 import MonikaImage from './TeamPics/MonikaCrichton.jpg'
 import NatashaImage from './TeamPics/NatashaBudiman.jpg'
+import ShuvashreeImage from './TeamPics/ShuvashreeBasnet.jpg'
 
 
 export const Eboard = [
@@ -60,80 +61,56 @@ export const Eboard = [
       linkedin: "https://www.linkedin.com/in/victoria-lugo-68bb07304/",
   },
   {
-    //keep?
       id: 6,
-      name: "Ruchitha Gande",
-      role: ["Career Fair Chair"],
-      picture: dummyIcon,  
-      linkedin: " https://www.linkedin.com/in/gande2/",
-  },
-  {
-      id: 7,
       name: "Eryn Chen",
       role: ["Sponsorship Coordinator"],
       picture: ErynImage,  
       linkedin: "https://www.linkedin.com/in/eryn-chen-871516252/",
   },
   {
-      id: 8,
+      id: 7,
       name: "Natasha Budiman",
       role: ["Scholarship Coordinator"],
       picture: NatashaImage,  
       linkedin: "https://www.linkedin.com/in/callistabudiman/",
   },
   {
-    //keep?
-      id: 9,
-      name: "Aisling Gonzalez",
-      role: ["Co-Director of Community Outreach"],
-      picture: dummyIcon,  
-      linkedin: "https://www.linkedin.com/in/aisling-gonzalez-51272220b/",
-  },
-  {
-    //keep?
-      id: 10,
-      name: "Genova Cruz",
-      role: ["Co-Director of Community Outreach"],
-      picture: dummyIcon,  
-      linkedin: " https://www.linkedin.com/in/genova-cruz-6149341b3/",
-  },
-  {
-      id: 11,
+      id: 8,
       name: "Allyson Montellano",
       role: ["Director of Member Affairs"],
       picture: AllysonImage,  
-      linkedin: "https://www.linkedin.com/in/abigail-jeffie/",
+      linkedin: "https://www.linkedin.com/in/allyson-montellano/",
   },
   {
-      id: 12,
+      id: 9,
       name: "Elke Zak",
       role: ["Director of Marketing"],
       picture: ElkeImage,  
       linkedin: "https://www.linkedin.com/in/elke-zak/",
   },
   {
-      id: 13,
+      id: 10,
       name: "Marissa Lee",
       role: ["Co-Director of Media Production: Graphic Design"],
       picture: MarissaImage,  
       linkedin: "https://www.linkedin.com/in/marissalee22/",
   },
   {
-      id: 14,
+      id: 11,
       name: "Shuvashree Basnet",
       role: ["Co-Director of Media Production: Photography & Videography"],
-      picture: dummyIcon,  
-      linkedin: "https://www.linkedin.com/in/marissalee22/",
+      picture: ShuvashreeImage,  
+      linkedin: "https://www.linkedin.com/in/shuvashreebasnet/",
   },
   {
-      id: 15,
+      id: 12,
       name: "Monika Crichton",
       role: ["CS Consultant & Council Liaison,", "Web Dev Lead"],
       picture: MonikaImage,  
       linkedin: "",
   },
   {
-      id: 16,
+      id: 13,
       name: "Krishna Manoj",
       role: ["Engineering Consultant & Council Liaison"],
       picture: KrishnaImage,  
