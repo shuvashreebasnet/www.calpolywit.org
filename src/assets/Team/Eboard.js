@@ -91,14 +91,14 @@ export const Eboard = [
   {
       id: 10,
       name: "Marissa Lee",
-      role: ["Co-Director of Media Production: Graphic Design"],
+      role: ["Director of Media Production: Graphic Design"],
       picture: MarissaImage,  
       linkedin: "https://www.linkedin.com/in/marissalee22/",
   },
   {
       id: 11,
       name: "Shuvashree Basnet",
-      role: ["Co-Director of Media Production: Photography & Videography"],
+      role: ["Director of Media Production: Photography & Videography"],
       picture: ShuvashreeImage,  
       linkedin: "https://www.linkedin.com/in/shuvashreebasnet/",
   },
