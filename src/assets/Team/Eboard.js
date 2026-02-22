@@ -17,7 +17,6 @@ import VictoriaImage from './TeamPics/VictoriaLugo.jpg'
 import ElkeImage from './TeamPics/ElkeZak.jpg'
 import ErynImage from './TeamPics/ErynChen.png'
 import MarissaImage from './TeamPics/MarissaLee.png'
-import MonikaImage from './TeamPics/MonikaCrichton.jpg'
 import NatashaImage from './TeamPics/NatashaBudiman.jpg'
 import ShuvashreeImage from './TeamPics/ShuvashreeBasnet.jpg'
 
@@ -104,10 +103,10 @@ export const Eboard = [
   },
   {
       id: 12,
-      name: "Monika Crichton",
+      name: "Monika",
       role: ["CS Consultant & Council Liaison,", "Web Dev Lead"],
-      picture: MonikaImage,  
-      linkedin: "",
+      picture: dummyIcon,  
+      linkedin: "https://www.linkedin.com/in/m-n-a-32588b337/",
   },
   {
       id: 13,
