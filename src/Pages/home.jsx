@@ -11,11 +11,14 @@ import image3 from '../assets/WebsitePictures/award.jpg';
 import image4 from '../assets/WebsitePictures/WITCrowdstrikeOpenHouse2025.png';
 import image5 from '../assets/WebsitePictures/WITOrientationFall2025.webp';
 import image6 from '../assets/WebsitePictures/WITPortfolioWorkshopFall2025.webp';
+import image7 from '../assets/WebsitePictures/cbarn26pic1.jpg';
+import image8 from '../assets/WebsitePictures/cisbanquet26awardallison.jpeg';
+import image9 from '../assets/WebsitePictures/cisbanquet26awardelke.jpeg';
 
 
 function Home() {
   const [currentIndex, setCurrentIndex] = useState(0);
-  const images = [image1, image2, image3, image4, image5, image6];
+  const images = [image1, image2, image3, image4, image5, image6, image7, image8, image9];
 
   // Auto-rotate images every 3 seconds
   useEffect(() => {
